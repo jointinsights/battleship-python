@@ -5,7 +5,7 @@ A simple game of Battleship, written in Python. The purpose of this repository i
 
 # Getting started
 
-This project requires Python 3.11 or newer. To prepare to work with it, pick one of these
+This project requires Python 3.12 or newer. To prepare to work with it, pick one of these
 options:
 
 ## Linux and macOS
