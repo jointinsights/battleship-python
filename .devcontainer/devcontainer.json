@@ -1,6 +1,6 @@
 {
 	"name": "Python",
-	"image": "mcr.microsoft.com/devcontainers/python:3.9-bullseye",
+	"image": "mcr.microsoft.com/devcontainers/python:3.12-trixie",
 
 	"customizations": {
 		"vscode": {

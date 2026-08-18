@@ -5,7 +5,7 @@ A simple game of Battleship, written in Python. The purpose of this repository i
 
 # Getting started
 
-This project requires Python 3.6 or newer. To prepare to work with it, pick one of these
+This project requires Python 3.11 or newer. To prepare to work with it, pick one of these
 options:
 
 ## Linux and macOS
@@ -27,8 +27,10 @@ sure you run the `source bin/venv/activate` command again.
 
 ## Windows
 
-[Download][pywin] and install Python 3.6 for Windows. Make sure python is on
-your `PATH`. Open a command prompt:
+[Download][pywin] and install Python for Windows. Make sure python is on
+your `PATH`. Use the Python install manager to help set up dependencies and `PATH` variables.
+
+Open a command prompt:
 
 ```commandline
 python -m venv venv
@@ -93,4 +95,3 @@ This application is collecting telemetry data with Microsoft Application Insight
 For more details see https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python.
 
 To send the telemetry data to a specific instance of Application Insights, the connection string has to be adjusted in telemetryclient.py
-
