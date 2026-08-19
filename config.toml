@@ -1,0 +1,2 @@
+[telemetry]
+connection_string = "InstrumentationKey=c764f176-19a5-4949-825d-9f30db2f14e8;IngestionEndpoint=https://germanywestcentral-1.in.applicationinsights.azure.com/"
